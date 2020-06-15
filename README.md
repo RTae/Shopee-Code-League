@@ -1,5 +1,6 @@
 # Shopee Code League
-These are code and file that I work with competition for each week and files and codes of workshops for each week.
+These are code and file that I work with competition for each week and files and codes of workshops for each week.\n
+
 :pushpin: **Week 1**
 - :star:**Competition** : Order brushing
 - :pencil2:**Workshop** : Late for this week :cry:
