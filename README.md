@@ -2,7 +2,7 @@
 These are code and file that I work with competition for each week and files and codes of workshops for each week.
 
 :pushpin: **Week 1**
-- :star: **Competition** : Order brushing
+- :star: **Competition** : Order brushing [Height Scorce]https://www.kaggle.com/yaofeng96/a-1-0-solution-explanation
 - :pencil2: **Workshop** : Late for this week :cry:
 
 :pushpin: **Week 2**
