@@ -10,3 +10,4 @@ These are code and file that I work with competition for each week and files and
 - :star: **Competition** : Product Detection
 - :pencil2: **Workshop** 
   - Data Science 101 by Coding Lab
+  - Machine Learning with ANN Using scikit-learn by Shopee
