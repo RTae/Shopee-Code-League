@@ -10,4 +10,5 @@ These are code and file that I work with competition for each week and files and
 - :star: **Competition** : Product Detection
 - :pencil2: **Workshop** 
   - Data Science 101 by Coding Lab
+  - Dynamic Programming by Rocket Academy [Slide](https://docs.google.com/presentation/d/1A0HIqW5E7Ni8k-hpuloZBjrYLqpBd3BSDnqlje21OLM/preview?pru=AAABcumkTLs*y_JKVSJT2yZey6X4fZsKqg&slide=id.g88ddf07b8c_0_388)
   - Machine Learning with ANN Using scikit-learn by Shopee
