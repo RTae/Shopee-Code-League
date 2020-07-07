@@ -7,7 +7,7 @@ These are code and file that I work with competition for each week and files and
 - :pencil2: **Workshop** : Late for this week :cry:
 
 :pushpin: **Week 2**
-- :star: **Competition** : Product Detection
+- :star: **Competition** : Product Detection **[0.7609]**
   - [link 0.82](https://www.kaggle.com/indralin/train-uses-tpu-in-kaggle-kernel-baseline-0-82) , [for more information](https://www.kaggle.com/jimitshah777/bilinear-efficientnet-focal-loss-label-smoothing)
 - :pencil2: **Workshop** 
   - Data Science 101 by Coding Lab
