@@ -16,7 +16,7 @@ These are code and file that I work with competition for each week and files and
   - Art of Image Processing with Python [Slide](https://docs.google.com/presentation/d/13Fkz_2eQEjS6cmV-2_Cjcp32iulI_FaVVDl4CxdT8mA/preview?pru=AAABcvBUP9Y*RdHLVHsNG2R7M9_ucrkMPQ&slide=id.g81e49a100c_0_125)
   
 :pushpin: **Week 3**
-- :star: **Competition** : Short algorithm **[5]*** 
+- :star: **Competition** : Short algorithm **[5]**
   
 :pushpin: **Week 4**
 - :star: **Competition** : Title Translation
